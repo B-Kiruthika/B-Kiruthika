@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif">
 
-- 🔭 I’m currently working on **AI based authentication for vision-impaired education**
+- 🔭 I’m currently worked on **Seamless Access: AI based human presence detection for visually impaired**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
