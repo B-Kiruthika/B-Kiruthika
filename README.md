@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently worked on **Seamless Access: AI based human presence detection for visually impaired**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **ReactJs and Nodejs**
 
 - 📫 How to reach me **srikiru23@gmail.com**
 
