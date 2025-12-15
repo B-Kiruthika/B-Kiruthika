@@ -4,9 +4,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif">
 
-- 🔭 I’m currently worked on **Seamless Access: AI based human presence detection for visually impaired**
+- 🔭 I'm currently working on the **Shopper E-commerce Platform**, a comprehensive MERN stack application
 
-- 🌱 I’m currently learning **ReactJs and Nodejs**
+- 🌱 I’m currently learning **Nodejs**
 
 - 📫 How to reach me **srikiru23@gmail.com**
 
